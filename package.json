@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Taha",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^22.13.0",
+    "xlsx": "^0.18.5"
+  }
+}
